@@ -1,0 +1,33 @@
+
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #40534C;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    margin-top: 0%;
+   
+}
+h3{
+    font-size: 28px;
+    margin-left: 30px;
+}
+ul li{
+    display:inline;
+    margin-right: 30px;
+    font-size: 23px;
+   
+}
+.hed1{
+    margin-top: 15px;
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+    color: white;
+}
+ul li a:hover{
+  color: black;
+}

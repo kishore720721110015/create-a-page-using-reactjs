@@ -1,0 +1,47 @@
+.for{
+    width: fit-content;
+    margin-left: 275px;
+    border: 1px solid black;
+    padding: 2px 60px 5px 60px;
+    margin-left: 40%;
+    margin-top: 30px;
+    border-radius: 10px;
+   
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
+h3{
+    text-align: center;
+}
+input{
+    width: 250px;
+    height: 25px;
+    margin-bottom: 8px;
+    border-radius: 5px;
+}
+label{
+    margin-bottom: 8px;
+    font: bold;
+    font-size: 17px;
+}
+button{
+    margin: 10px;
+    text-align: center;
+    border-radius: 5px;
+    width: 100px;
+    color: white;
+}
+.btn1{
+    background-color: rgb(91, 164, 112);
+}
+.btn2{
+    background-color: rgb(211, 86, 86);
+}
+.btn1:hover{
+    background-color: green;
+}
+.btn2:hover{
+    background-color: red;
+}
