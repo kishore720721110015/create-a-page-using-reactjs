@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/create-a-page-using-reactjs/static/css/main.1195b6fd.css",
+    "main.js": "/create-a-page-using-reactjs/static/js/main.10b7af70.js",
+    "index.html": "/create-a-page-using-reactjs/index.html",
+    "main.1195b6fd.css.map": "/create-a-page-using-reactjs/static/css/main.1195b6fd.css.map",
+    "main.10b7af70.js.map": "/create-a-page-using-reactjs/static/js/main.10b7af70.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1195b6fd.css",
+    "static/js/main.10b7af70.js"
+  ]
+}
